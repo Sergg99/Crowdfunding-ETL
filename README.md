@@ -1,2 +1,24 @@
 # Crowdfunding-ETL
 Week 8 Challenge
+
+## Resources: 
+- Software: SQL, PostgreSQL, pgAdmin, JupyterNotebook 
+
+## Overview:
+
+  - ETL pipeline was created to move raw data to a SQL database.
+  - Extracted data from an external file by using Python and Pandas.
+  - Used regular expressions to extract numbers and text.
+  - Cleaned and transform data by using Python and Pandas.
+  - Design a database and a table schema by using an entity relationship diagram (ERD).
+  - Loaded data into a PostgreSQL database.
+  - Performed data analysis by using SQL queries.
+
+## Purpose:
+The purpose of this weeks analysis was based on a crowd-funding plattaform performing a independent funding for independent project and/or ventures. All the data was accessible from a large Excel file onto Python and PostgresSQL database. Britta, a junior SQL developer will need our help to perform the analysis. 
+
+
+## Challange:
+![Image 1](
+This weeks project was challenging since we had to organized the data into a pipeline after being extracted from a large Excel file into four separate CSV files. Luckily, using Quick DBD helped us cutting down time and effort by mapping the database. ETL was something new to me which implied on extensive research when pipelining the data into our desired data frames. 
+
